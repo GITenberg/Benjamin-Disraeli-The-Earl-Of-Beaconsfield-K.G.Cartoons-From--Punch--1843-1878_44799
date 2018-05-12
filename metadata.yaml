@@ -29,6 +29,8 @@ covers:
 - cover_type: archival
   image_path: 44799-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44799#Benjamin-Disraeli-The-Earl-Of-Beaconsfield-K.G.Cartoons-From--Punch--1843-1878
 gutenberg_issued: '2014-01-30'
 gutenberg_type: Text
 identifiers:
