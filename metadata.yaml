@@ -1,0 +1,47 @@
+_repo: Benjamin-Disraeli-The-Earl-Of-Beaconsfield-K.G.Cartoons-From--Punch--1843-1878_44799
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Tenniel, John
+    alias: Tenniel, Sir John
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '74'
+    url: http://www.gutenberg.org/2009/agents/74
+    wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
+  - agent_name: Doyle, Richard
+    aliases:
+    - Doyle, R. (Richard)
+    - Kitcat, Dick
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+covers:
+- cover_type: archival
+  image_path: 44799-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44799'
+  lccn: '18020371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disraeli, Benjamin, 1804-1881'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcc 'DA'
+title: "Benjamin Disraeli, the Earl of Beaconsfield, K.G.\r\nCartoons from \"Punch\"\
+  \ 1843-1878"
+url: http://www.gutenberg.org/ebooks/44799
